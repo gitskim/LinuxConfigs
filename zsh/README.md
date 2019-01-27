@@ -19,6 +19,9 @@ wget https://raw.githubusercontent.com/gitskim/LinuxConfigs/master/zsh/suhyun-oh
 ZSH_THEME="suhyun-ohmyzsh-theme"
 ```
 
-
+7. Done!
+```
+source .zshrc
+```
 
 
