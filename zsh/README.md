@@ -9,4 +9,9 @@
 * Preferences/Profiles/Text/Font size 20pt
 * Preferences/Profiles/Colors/ColorPresets/SolarizedDarcula (downloaded from here: https://github.com/mbadolato/iTerm2-Color-Schemes)
 
-5. change oh my zsh theme
+5. under .oh-my-zsh/themes, run
+```c
+wget https://raw.githubusercontent.com/gitskim/LinuxConfigs/master/zsh/suhyun-ohmyzsh-theme.zsh-theme
+```
+
+
