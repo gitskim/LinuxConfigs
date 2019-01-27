@@ -14,4 +14,11 @@
 wget https://raw.githubusercontent.com/gitskim/LinuxConfigs/master/zsh/suhyun-ohmyzsh-theme.zsh-theme
 ```
 
+6. Edit the .zshrc file.
+```c
+ZSH_THEME="suhyun-ohmyzsh-theme"
+```
+
+
+
 
